@@ -1,4 +1,4 @@
-# Spotifast Gruvbox
+# Spotigruv
 
 A [Gruvbox](https://github.com/morhetz/gruvbox) dark theme for [Spotifast](https://github.com/crmne/spotifast).
 
@@ -34,4 +34,3 @@ Tip: turn off **accent from album art** if you want the Gruvbox orange accent to
 | warning         | `#fabd2f` | yellow       |
 
 Want a different accent? Swap `accent` for aqua `#8ec07c`, green `#b8bb26` or yellow `#fabd2f`, and set `accent_hover` to a slightly lighter shade.
-# spotigruv
