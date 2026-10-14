@@ -2,6 +2,10 @@
 
 A [Gruvbox](https://github.com/morhetz/gruvbox) dark theme for [Spotifast](https://github.com/crmne/spotifast).
 
+![Spotigruv theme on an artist page in Spotifast](screenshots/example.png)
+
+![Spotigruv theme on the search page in Spotifast](screenshots/example_search.png)
+
 ## Install
 
 Copy the theme into your Spotifast themes folder:
